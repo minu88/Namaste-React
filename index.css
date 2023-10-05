@@ -1,3 +1,5 @@
-#heading {
-    color:red;
-}
+/* importing tailwind into our css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
